@@ -1,24 +1,14 @@
 {
   "main": [
     {
-      "title": "facebook",
-      "icon": "lab la-facebook-f",
-      "link": "!#"
+      "title": "linkedin",
+      "icon": "lab la-linkedin-in",
+      "link": "https://www.linkedin.com/company/mapeaze"
     },
     {
       "title": "twitter",
       "icon": "lab la-twitter",
-      "link": "!#"
-    },
-    {
-      "title": "linkedin",
-      "icon": "lab la-linkedin-in",
-      "link": "!#"
-    },
-    {
-      "title": "pinterest",
-      "icon": "lab la-pinterest",
-      "link": "!#"
+      "link": "https://x.com/MapEaze"
     }
   ]
 }

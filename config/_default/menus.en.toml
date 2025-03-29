@@ -3,37 +3,20 @@
 # main menu
 [[main]]
 name = "Home"
-url = ""
+url = "https://mapeaze.com/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Features"
+url = "https://www.mapeaze.com/#features"
 weight = 2
 
 
 [[main]]
 name = "Blog"
-url = "blog/"
+url = "/"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Blog Details"
-  url = "blog/post-1/"
-  weight = 1
-
-
-  [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 2
 
 [[main]]
 name = "Contact"
@@ -47,21 +30,26 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "Home"
+url = "https://mapeaze.com/"
 weight = 1
 
 [[footer]]
-name = "Blog"
-url = "blog/"
+name = "Features"
+url = "https://www.mapeaze.com/#features"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
-url = "blog/post-1/"
+name = "Blog"
+url = "/"
 weight = 3
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name = "Privacy Policy"
+url = "https://www.mapeaze.com/privacy"
 weight = 4
+
+[[footer]]
+name = "Terms & Conditions"
+url = "https://www.mapeaze.com/terms-and-conditions"
+weight = 5
