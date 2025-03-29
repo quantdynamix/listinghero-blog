@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'andromeda-light-hugo'
+
+[permalinks]
+post = "/:slug/"  # optional, for prettier URLs
+
+[[redirects]]
+from = "/"
+to = "/blog/"
+status = 301
