@@ -3,6 +3,7 @@ date: "2021-07-14"
 title: "The Real Product From the Buyers improvements in Overflow basis."
 image: "images/blog/01.jpg"
 author: "Abdullah Al Shifat"
+type: "post"
 draft: false
 ---
 
@@ -14,7 +15,7 @@ Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ul
 
 > Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
 >
-> <cite>!Alexender Smith</cite>
+> <cite>! Alexender Smith</cite>
 
 Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
 

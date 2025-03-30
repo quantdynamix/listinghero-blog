@@ -22,7 +22,7 @@ contact_form_action = "https://formspree.io/f/mgvalpak" # contact form works wit
 custom_script= "" 
 
 # Main Sections
-mainSections= ["blog"]
+mainSections= [""]
 
 # contact information
 [contact_info]

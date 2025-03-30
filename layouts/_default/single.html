@@ -61,9 +61,7 @@
 {{ end }}
 
   <!-- checking blog -->
-  {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq
-    .Section "categories") (eq .Section "tags")
-  }}
+  {{ if eq .Type "post" }}
     <!-- strat of blog-details -->
     <section class="section-sm pt-0">
       <div class="container">
