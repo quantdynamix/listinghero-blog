@@ -33,7 +33,7 @@ email = [""]
 # Preloader 
 # module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
-enable = true
+enable = false
 preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
