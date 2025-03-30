@@ -108,7 +108,7 @@ button_link = "/contact"
 
 # buy premium popup
 [buy_premium_popup]
-enable = true
+enable = false
 title = " Do you need help managing your fleet and customers?"
 content = "We can help customize our solution to match your needs."
 button = "Contact Us"
