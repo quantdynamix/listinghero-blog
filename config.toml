@@ -1,8 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MapEaze'
 theme = 'andromeda-light-hugo'
 
 [permalinks]
-post = "/:slug/"  # optional, for prettier URLs
-
+blog = "/:slug/"
