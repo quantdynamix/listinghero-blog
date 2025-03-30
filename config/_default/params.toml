@@ -15,10 +15,8 @@ logo_text = "MapEaze"
 footer_info = "MapEaze helps Pool, Irrigation, and Landscaping services providers manage their business and fleet/team."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mgvalpak" # contact form works with https://formspree.io
 
-# buy premium popup
-buy_premium_popup = true
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -105,5 +103,13 @@ button = "I Accept"
 enable = true
 title = "Focus on yout Fleet, Service, and your Customers"
 content = "MapEaze helps Pool, Irrigation, and Landscaping services providers manage their business and fleet/team."
+button = "Contact Us"
+button_link = "/contact"
+
+# buy premium popup
+[buy_premium_popup]
+enable = true
+title = " Do you need help managing your fleet and customers?"
+content = "We can help customize our solution to match your needs."
 button = "Contact Us"
 button_link = "/contact"
