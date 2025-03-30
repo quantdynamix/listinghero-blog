@@ -5,6 +5,7 @@ image: "images/blog/digitizing-flood-irrigation.webp"
 author: "Karen Brooks"
 type: "post"
 draft: false
+slug: "how-digitizing-flood-irrigation-saves-water"
 description: "Discover how digital tools and historical irrigation data are helping flood irrigation providers save millions of gallons of water every year while combating the impact of climate change."
 keywords: ["flood irrigation", "water conservation", "digital irrigation tools", "climate change", "irrigation efficiency", "precision agriculture", "sustainable farming", "smart irrigation", "field service digitization"]
 ---
