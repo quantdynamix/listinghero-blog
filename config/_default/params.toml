@@ -1,6 +1,6 @@
 #################### default parameters ################################
 favicon = "images/favicon.png"
-logo = "images/logo.svg"
+logo = "images/logo.webp"
 logo_width = "175px"
 logo_webp = true
 logo_text = "Sonali Polymers"
