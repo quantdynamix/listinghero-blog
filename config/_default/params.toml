@@ -14,13 +14,13 @@ contact_form_action = "https://formspree.io/f/your-sonali-form-id" # Replace wit
 custom_script= ""
 
 # Main Sections
-mainSections= ["blog"]
+mainSections= [""]
 
 # contact information
 [contact_info]
-address = "Corporate Office: Plot No. PAP-47, Rabale MIDC, Navi Mumbai – 400701, Maharashtra, India"
-phone = ["+91-22-27690893", "+91-22-27690935"]
-email = ["info@sonaligroup.in"]
+address = "Unit 807, 8th floor, Signature Elite Complex, Govind Marg, Narayan Singh circle , Jaipur, India"
+phone = ["+91-9001093913"]
+email = ["laura@mail.sonalipolymers.com"]
 
 # Preloader 
 [preloader]
