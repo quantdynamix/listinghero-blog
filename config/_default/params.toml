@@ -113,3 +113,7 @@ title = " Do you need help managing your fleet and customers?"
 content = "We can help customize our solution to match your needs."
 button = "Contact Us"
 button_link = "/contact"
+
+# copyright
+[copyright]
+text = "© {year} Quant Dynamix Inc. All rights reserved." 
