@@ -1,6 +1,6 @@
 ---
 title: "Karen Brooks"
-image: "images/author/karen.jpg"
+image: "images/author/karen-brooks.png"
 email: ""
 
 ---
