@@ -28,7 +28,7 @@ mainSections= [""]
 [contact_info]
 address = ""
 phone = ["+480-300-9525"]
-email = [""]
+email = ["karen@mail.mapeaze.com"]
 
 # Preloader 
 # module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
