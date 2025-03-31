@@ -3,12 +3,12 @@
 # main menu
 [[main]]
 name = "Home"
-url = "https://mapeaze.com/"
+url = "https://sonaligroup.in/"
 weight = 1
 
 [[main]]
-name = "Features"
-url = "https://www.mapeaze.com/#features"
+name = "Products"
+url = "https://sonaligroup.in/products"
 weight = 2
 
 
@@ -31,12 +31,12 @@ weight = 5
 # footer menu
 [[footer]]
 name = "Home"
-url = "https://mapeaze.com/"
+url = "https://sonaligroup.in/"
 weight = 1
 
 [[footer]]
-name = "Features"
-url = "https://www.mapeaze.com/#features"
+name = "Products"
+url = "https://sonaligroup.in/products"
 weight = 2
 
 [[footer]]
@@ -46,10 +46,10 @@ weight = 3
 
 [[footer]]
 name = "Privacy Policy"
-url = "https://www.mapeaze.com/privacy"
+url = "https://sonaligroup.in/privacy"
 weight = 4
 
 [[footer]]
 name = "Terms & Conditions"
-url = "https://www.mapeaze.com/terms-and-conditions"
+url = "https://sonaligroup.in/terms-and-conditions"
 weight = 5

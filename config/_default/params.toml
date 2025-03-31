@@ -1,97 +1,79 @@
 #################### default parameters ################################
-# favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
-# logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logo.svg"
-# use `px` or `x` with logo_width, example: "100px".
-# Note: logo_width is not work with .svg file
 logo_width = "175px"
-# if logo_webp set false, it will not generate WEBP version of logo | default is true
 logo_webp = true
-# logo text will only show when logo is missing.
-logo_text = "MapEaze"
+logo_text = "Sonali Polymers"
 
 # footer information
-footer_info = "MapEaze helps Pool, Irrigation, and Landscaping services providers manage their business and fleet/team."
+footer_info = "Sonali Polymers is one of the fastest-growing manufacturers and exporters of fillers and masterbatches from India, delivering quality plastic solutions worldwide."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/mgvalpak" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/your-sonali-form-id" # Replace with actual Formspree ID
 
-
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= "" 
+custom_script= ""
 
 # Main Sections
-mainSections= [""]
+mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = ""
-phone = ["+480-300-9525"]
-email = ["karen@mail.mapeaze.com"]
+address = "Corporate Office: Plot No. PAP-47, Rabale MIDC, Navi Mumbai – 400701, Maharashtra, India"
+phone = ["+91-22-27690893", "+91-22-27690935"]
+email = ["info@sonaligroup.in"]
 
 # Preloader 
-# module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
 enable = false
-preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+preloader = "images/favicon.png"
 
 # Navigation button
 [navigation_button]
 enable = true
-label = "Try Now"
-link = "https://app.mapeaze.com/user/signup"
-
+label = "Visit Website"
+link = "https://www.sonaligroup.in"
 
 # seo meta data for OpenGraph / Twitter Card
-# seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Mapeaze", "irrigators", "pool service"]
-description = "MapEaze helps Pool, Irrigation, and Landscaping services providers manage their business and fleet/team."
-author = "MapEaze"
-image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
+keywords = ["Sonali Polymers", "Masterbatches", "Filler Manufacturer", "Plastic Compounds", "PVC", "Export from India"]
+description = "Sonali Polymers is a leading manufacturer and exporter of fillers and masterbatches from India, with 60,000 MTA capacity and a strong global presence."
+author = "Sonali Polymers"
+image = "images/og-image.jpg"
 
-# matomo tracking: see https://matomo.org/
-# matomo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/matomo-analytics
+# matomo tracking
 [matomo]
 enable = false
-url = "" # your matomo url
-id = "" # your matomo id
+url = ""
+id = ""
 
-# baidu analytics: see https://tongji.baidu.com/
-# baidu module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/baidu-analytics
+# baidu analytics
 [baidu]
 enable = false
-analytics_id = "" # Your ID
+analytics_id = ""
 
-# plausible analytics: see https://plausible.io/
-# plausible module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/plausible-analytics
+# plausible analytics
 [plausible]
 enable = false
-domain = "" # yourdomain.com
+domain = ""
 
-# counter analytics: see https://counter.dev/setup.html
-# counter module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/counter-analytics
+# counter analytics
 [counter]
 enable = false
-username = "" # your username
+username = ""
 
 # site verifications
-# verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = "" # Your verification code
-bing = "" # Your verification code
-baidu = "" # Your verification code
-facebook = "" # Your verification code
+google = ""
+bing = ""
+baidu = ""
+facebook = ""
 
-# crisp chat - module: https://github.com/gethugothemes/hugo-modules/tree/master/components/crisp-chat
+# crisp chat
 [crisp_chat]
 enable = false
-crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code with yours
-# Check this video tutorial to get your crisp website ID - https://www.youtube.com/watch?v=nW5UX6iVdFc
+crisp_website_id = "your-crisp-id-if-used"
 
 # cookies
-# cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
 enable = true
 expire_days = 2
@@ -101,19 +83,19 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Focus on yout Fleet, Service, and your Customers"
-content = "MapEaze helps Pool, Irrigation, and Landscaping services providers manage their business and fleet/team."
+title = "Global Innovators in Fillers and Masterbatches"
+content = "With 60,000 MTA capacity and world-class manufacturing across India, Sonali delivers plastic solutions trusted around the globe."
 button = "Contact Us"
 button_link = "/contact"
 
 # buy premium popup
 [buy_premium_popup]
 enable = false
-title = " Do you need help managing your fleet and customers?"
-content = "We can help customize our solution to match your needs."
+title = "Need Custom Plastic Solutions?"
+content = "Reach out to Sonali Polymers for specialized filler and masterbatch requirements tailored to your needs."
 button = "Contact Us"
 button_link = "/contact"
 
 # copyright
 [copyright]
-text = "© {year} Quant Dynamix Inc. All rights reserved." 
+text = "© {year} Sonali Polymers. All rights reserved."
