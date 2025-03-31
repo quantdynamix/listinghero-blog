@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "Products"
-url = "https://sonaligroup.in/products"
+url = "https://sonaligroup.in/sonali-products-main"
 weight = 2
 
 
@@ -36,7 +36,7 @@ weight = 1
 
 [[footer]]
 name = "Products"
-url = "https://sonaligroup.in/products"
+url = "https://sonaligroup.in/sonali-products-main"
 weight = 2
 
 [[footer]]
