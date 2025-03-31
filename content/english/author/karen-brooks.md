@@ -5,4 +5,4 @@ email: ""
 
 ---
 
-Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita. Caut repudiandae a assumenda tempora!
+Karen is an experienced account manager at MapEaze, where she works closely with clients in the irrigation and landscaping industries to streamline their field operations through smart, efficient service tools. Passionate about sustainability and customer success, Karen brings both insight and empathy to every conversation.
