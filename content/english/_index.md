@@ -1,5 +1,5 @@
 ---
-title: "Sonali Polymers Blog"
-description: "Sonali Polymers is one of the fastest-growing manufacturers and exporters of fillers and masterbatches from India, delivering quality plastic solutions worldwide."
+title: "Listing Hero Blog"
+description: "Seamlessly audit, enhance, and localize product listings across Amazon marketplaces using cutting-edge AI with one click."
 draft: false
 ---

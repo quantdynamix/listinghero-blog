@@ -1,15 +1,15 @@
 #################### default parameters ################################
 favicon = "images/favicon.png"
-logo = "images/logo.webp"
+logo = "images/logo.png"
 logo_width = "175px"
 logo_webp = true
-logo_text = "Sonali Polymers"
+logo_text = "ListingHero AI"
 
 # footer information
-footer_info = "Sonali Polymers is one of the fastest-growing manufacturers and exporters of fillers and masterbatches from India, delivering quality plastic solutions worldwide."
+footer_info = "Enhance Your Amazon Listings with AI"
 
 # contact form action
-contact_form_action = "https://formspree.io/f/your-sonali-form-id" # Replace with actual Formspree ID
+contact_form_action = "https://formspree.io/f/your-sonali-form-id" 
 
 custom_script= ""
 
@@ -18,9 +18,9 @@ mainSections= [""]
 
 # contact information
 [contact_info]
-address = "Unit 807, 8th floor, Signature Elite Complex, Govind Marg, Narayan Singh circle , Jaipur, India"
+address = "Golf Course Road, Gurgaon"
 phone = ["+91-9001093913"]
-email = ["laura@mail.sonalipolymers.com"]
+email = ["info@listingheroai.com"]
 
 # Preloader 
 [preloader]
@@ -30,14 +30,14 @@ preloader = "images/favicon.png"
 # Navigation button
 [navigation_button]
 enable = true
-label = "Visit Website"
-link = "https://www.sonaligroup.in"
+label = "Try It Free"
+link = "https://www.listingheroai.com"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Sonali Polymers", "Masterbatches", "Filler Manufacturer", "Plastic Compounds", "PVC", "Export from India"]
-description = "Sonali Polymers is a leading manufacturer and exporter of fillers and masterbatches from India, with 60,000 MTA capacity and a strong global presence."
-author = "Sonali Polymers"
+keywords = ["amazon", "ai", "image generator"]
+description = "Listing Hero - Enhance Your Amazon Listings with AI"
+author = "ListingHero"
 image = "images/og-image.jpg"
 
 # matomo tracking
@@ -83,8 +83,8 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Global Innovators in Fillers and Masterbatches"
-content = "With 60,000 MTA capacity and world-class manufacturing across India, Sonali delivers plastic solutions trusted around the globe."
+title = "Enchance your Amazon listing in a few clicks!"
+content = "With ability to generate content in a few clicks."
 button = "Contact Us"
 button_link = "/contact"
 
@@ -98,4 +98,4 @@ button_link = "/contact"
 
 # copyright
 [copyright]
-text = "© {year} Sonali Polymers. All rights reserved."
+text = "© {year} ListingHero. All rights reserved."

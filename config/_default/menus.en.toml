@@ -3,25 +3,23 @@
 # main menu
 [[main]]
 name = "Home"
-url = "https://sonaligroup.in/"
+url = "https://listingheroai.com"
 weight = 1
-
-[[main]]
-name = "Products"
-url = "https://sonaligroup.in/sonali-products-main"
-weight = 2
-
 
 [[main]]
 name = "Blog"
 url = "/"
-weight = 3
+weight = 2
 
+[[main]]
+name = "Login"
+url = "https://app.listingheroai.com/login"
+weight = 3
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 4
 
 
 
@@ -31,25 +29,20 @@ weight = 5
 # footer menu
 [[footer]]
 name = "Home"
-url = "https://sonaligroup.in/"
+url = "https://listingheroai.com"
 weight = 1
-
-[[footer]]
-name = "Products"
-url = "https://sonaligroup.in/sonali-products-main"
-weight = 2
 
 [[footer]]
 name = "Blog"
 url = "/"
-weight = 3
+weight = 2
 
 [[footer]]
 name = "Privacy Policy"
-url = "https://sonaligroup.in/privacy"
-weight = 4
+url = "https://listingheroai.com/privacy"
+weight = 3
 
 [[footer]]
 name = "Terms & Conditions"
-url = "https://sonaligroup.in/terms-and-conditions"
-weight = 5
+url = "https://listingheroai.com/terms"
+weight = 4

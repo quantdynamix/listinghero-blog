@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://blog.sonalipolymers.com"
+baseURL = "https://blog.listingheroai.com"
 # Title of your website (required).
-title = "Sonali Polymers is one of the fastest-growing manufacturers and exporters of fillers and masterbatches from India, delivering quality plastic solutions worldwide."
+title = "ListingHero is amazon AI that you need."
 # Your theme name
 theme = "andromeda-light-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -103,8 +103,8 @@ rel = "manifest"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#e56247"
-border_color = "#e4e4e4"
+color_primary = "#1877ec"
+border_color = "#1877ec"
 white = "#ffffff"
 black = "#000000"
 light = "#FAFAFA"
