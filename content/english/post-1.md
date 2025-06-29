@@ -1,5 +1,5 @@
 ---
-date: "2025-03-30"
+date: "2025-06-29"
 title: "Mastering Amazon Main Image Guidelines: Essential Requirements for Successful Product Listings"
 image: ""
 author: "Laura Mitchell"
