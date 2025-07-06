@@ -4,7 +4,7 @@ title: "Mastering Amazon Main Image Guidelines: Essential Requirements for Succe
 image: ""
 author: "Laura Mitchell"
 type: "post"
-draft: true
+draft: false
 slug: "amazon-PRIMARY-image-guidelines"
 description: "Complete guide to Amazon's main image requirements, including detailed guidelines, best practices, and how to optimize your product images for better visibility and sales."
 keywords: ["Amazon image guidelines", "Amazon main image requirements", "product photography", "Amazon listing optimization", "white background images", "Amazon seller guidelines", "product image standards", "e-commerce photography"]
