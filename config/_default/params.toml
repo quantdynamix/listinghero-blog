@@ -19,7 +19,7 @@ mainSections= [""]
 # contact information
 [contact_info]
 address = "Golf Course Road, Gurgaon"
-phone = ["+91-9001093913"]
+phone = [""]
 email = ["info@listingheroai.com"]
 
 # Preloader 
