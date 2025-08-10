@@ -26,11 +26,11 @@ Amazon A+ Content serves multiple critical business functions:
 
 Implementing A+ Content is essential for serious Amazon sellers looking to maximize their listing performance.
 
-##### A+ Content Transformation Demo
+<!-- ##### A+ Content Transformation Demo
 
 Professional A+ Content design can dramatically improve your product presentation and customer engagement. See how effective content modules enhance the shopping experience:
 
-{{< before-after before="/images/before.jpg" after="/images/after.png" id="aplus-content-demo" >}}
+{{< before-after before="/images/before.jpg" after="/images/after.png" id="aplus-content-demo" >}} -->
 
 ### Amazon A+ Content Requirements: Complete Breakdown
 
