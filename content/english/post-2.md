@@ -1,7 +1,7 @@
 ---
 date: "2025-08-10"
 title: "Amazon A+ Content: The Ultimate Guide to Enhanced Brand Content for Higher Conversions"
-image: "images/aplus.png"
+image: "images/aplus.webp"
 author: "Laura Mitchell"
 type: "post"
 draft: false
